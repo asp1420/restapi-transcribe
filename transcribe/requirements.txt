@@ -1,0 +1,6 @@
+fastapi
+pydantic
+python-multipart
+hypercorn[trio]
+Werkzeug
+openai-whisper
